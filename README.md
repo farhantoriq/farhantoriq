@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @farhantoriq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I-COMP
 
-<!---
-farhantoriq/farhantoriq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Beranggotakan: 
+
+No. 20.83.0487	Dimas Satrya Bhayangkara
+No. 20.83.0488	Hasvid Dwi Putranto
+No. 20.83.0496	Farhan Toriq
+
+Aplikasi untuk Mempermudah pengguna memilih barang dengan harga yang lebih murah  
+
+Progress: 80%
